@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\formularioingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\formularioingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.Designer.cs",
+              "RelativeToolTip": "Fase3JuanOrozco\\Form1.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAIwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:49:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "RelativeToolTip": "Fase3JuanOrozco\\Form1.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAewH4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:48:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioIngreso.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\FormularioIngreso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioIngreso.cs",
+              "RelativeToolTip": "Fase3JuanOrozco\\FormularioIngreso.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:36:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Fase3JuanOrozco\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:30:24.819Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
