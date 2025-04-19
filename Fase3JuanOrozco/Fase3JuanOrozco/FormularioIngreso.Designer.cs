@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormularioIngreso));
             acercaDe = new Label();
             cajaCompensacionLabel = new Label();
             cajaCompensacionNombre = new Label();
@@ -48,13 +48,15 @@
             salirButton = new Button();
             txtPassword = new TextBox();
             acercaDeDownLabel = new Label();
+            pictureBox1 = new PictureBox();
             tableLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // acercaDe
             // 
             acercaDe.AutoSize = true;
-            acercaDe.Location = new Point(27, 35);
+            acercaDe.Location = new Point(58, 35);
             acercaDe.Name = "acercaDe";
             acercaDe.Size = new Size(62, 15);
             acercaDe.TabIndex = 0;
@@ -267,11 +269,21 @@
             acercaDeDownLabel.Size = new Size(0, 15);
             acercaDeDownLabel.TabIndex = 9;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(529, 67);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(349, 147);
+            pictureBox1.TabIndex = 10;
+            pictureBox1.TabStop = false;
+            // 
             // FormularioIngreso
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(666, 546);
+            ClientSize = new Size(909, 546);
+            Controls.Add(pictureBox1);
             Controls.Add(acercaDeDownLabel);
             Controls.Add(txtPassword);
             Controls.Add(salirButton);
@@ -286,6 +298,7 @@
             Text = "Inicio Sesion";
             Load += FormularioIngreso_Load;
             tableLayoutPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
 
@@ -312,5 +325,6 @@
         private Button salirButton;
         private TextBox txtPassword;
         private Label acercaDeDownLabel;
+        private PictureBox pictureBox1;
     }
 }

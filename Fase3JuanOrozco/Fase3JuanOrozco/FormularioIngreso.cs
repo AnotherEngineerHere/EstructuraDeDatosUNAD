@@ -63,7 +63,7 @@ namespace Fase3JuanOrozco
             if (txtPassword.Text == CONTRASEÑA_CORRECTA)
             {
                 MessageBox.Show("Acceso concedido", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Form1 form = new Form1();
+                FormularioAfiliado form = new FormularioAfiliado();
                 form.Show();
                 this.Hide();
                 
