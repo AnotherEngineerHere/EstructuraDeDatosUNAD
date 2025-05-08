@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|d:\\pcantiguo\\descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|solutionrelative:arbolesbinarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\nodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|solutionrelative:arbolesbinarios\\nodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|solutionrelative:arbolesbinarios\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|solutionrelative:arbolesbinarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{641C3C12-1F9F-4518-8C3B-96ADA741A255}|arbolesbinarios\\arbolesbinarios.csproj|solutionrelative:arbolesbinarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Program.cs",
+              "RelativeDocumentMoniker": "arbolesbinarios\\Program.cs",
+              "ToolTip": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Program.cs",
+              "RelativeToolTip": "arbolesbinarios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:17:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nodos.cs",
+              "DocumentMoniker": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\nodos.cs",
+              "RelativeDocumentMoniker": "arbolesbinarios\\nodos.cs",
+              "ToolTip": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\nodos.cs",
+              "RelativeToolTip": "arbolesbinarios\\nodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:17:14.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Nodo.cs",
+              "RelativeDocumentMoniker": "arbolesbinarios\\Nodo.cs",
+              "ToolTip": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Nodo.cs",
+              "RelativeToolTip": "arbolesbinarios\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:34:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Form2.cs",
+              "RelativeDocumentMoniker": "arbolesbinarios\\Form2.cs",
+              "ToolTip": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Form2.cs",
+              "RelativeToolTip": "arbolesbinarios\\Form2.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:35:16.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Form2.cs",
+              "RelativeDocumentMoniker": "arbolesbinarios\\Form2.cs",
+              "ToolTip": "D:\\PcAntiguo\\Descargas\\arbolesbinarios_juan[1]\\arbolesbinarios\\arbolesbinarios\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "arbolesbinarios\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:34:56.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

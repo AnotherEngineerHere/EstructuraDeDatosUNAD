@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\bin\Debug\arbolesbinarios.exe.config
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\bin\Debug\arbolesbinarios.exe
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\bin\Debug\arbolesbinarios.pdb
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.Form1.resources
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.Properties.Resources.resources
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.csproj.GenerateResource.cache
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.exe
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.pdb
+C:\Users\super\source\repos\arbolesbinarios\arbolesbinarios\obj\Debug\arbolesbinarios.Form2.resources
