@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase5_Juan_Orozco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93FFE95-599F-428C-9F9D-7C72723AE8E5}|Fase5_Juan_Orozco\\Fase5_Juan_Orozco.csproj|c:\\users\\user\\documents\\github\\estructuradedatosunad\\fase5_juan_orozco\\fase5_juan_orozco\\formulariotarea5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93FFE95-599F-428C-9F9D-7C72723AE8E5}|Fase5_Juan_Orozco\\Fase5_Juan_Orozco.csproj|solutionrelative:fase5_juan_orozco\\formulariotarea5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93FFE95-599F-428C-9F9D-7C72723AE8E5}|Fase5_Juan_Orozco\\Fase5_Juan_Orozco.csproj|c:\\users\\user\\documents\\github\\estructuradedatosunad\\fase5_juan_orozco\\fase5_juan_orozco\\formulario ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93FFE95-599F-428C-9F9D-7C72723AE8E5}|Fase5_Juan_Orozco\\Fase5_Juan_Orozco.csproj|solutionrelative:fase5_juan_orozco\\formulario ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A375EFC6-2D20-771F-DD81-7EBA9653C28E}|..\\Fase3JuanOrozco\\Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\documents\\github\\estructuradedatosunad\\fase3juanorozco\\fase3juanorozco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulario Ingreso.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase5_Juan_Orozco\\Fase5_Juan_Orozco\\Formulario Ingreso.cs",
+              "RelativeDocumentMoniker": "Fase5_Juan_Orozco\\Formulario Ingreso.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase5_Juan_Orozco\\Fase5_Juan_Orozco\\Formulario Ingreso.cs",
+              "RelativeToolTip": "Fase5_Juan_Orozco\\Formulario Ingreso.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:19:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioTarea5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase5_Juan_Orozco\\Fase5_Juan_Orozco\\FormularioTarea5.cs",
+              "RelativeDocumentMoniker": "Fase5_Juan_Orozco\\FormularioTarea5.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase5_Juan_Orozco\\Fase5_Juan_Orozco\\FormularioTarea5.cs",
+              "RelativeToolTip": "Fase5_Juan_Orozco\\FormularioTarea5.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:58:24.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\EstructuraDeDatosUNAD\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "RelativeToolTip": "..\\Fase3JuanOrozco\\Fase3JuanOrozco\\Form1.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwLsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:57:52.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

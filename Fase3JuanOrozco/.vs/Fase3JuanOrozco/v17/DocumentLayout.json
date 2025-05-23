@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\formularioafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\formularioafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\formularioafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\formularioafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\formularioingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\formularioingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|c:\\users\\user\\source\\repos\\fase3juanorozco\\fase3juanorozco\\estructuradatosafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C963D-A49D-44BD-818D-FBB98B601158}|Fase3JuanOrozco\\Fase3JuanOrozco.csproj|solutionrelative:fase3juanorozco\\estructuradatosafiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormularioAfiliado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "RelativeToolTip": "Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAADwvy8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:44:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstructuraDatosAfiliado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\EstructuraDatosAfiliado.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\EstructuraDatosAfiliado.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\EstructuraDatosAfiliado.cs",
+              "RelativeToolTip": "Fase3JuanOrozco\\EstructuraDatosAfiliado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:44:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioIngreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioIngreso.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\FormularioIngreso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioIngreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Fase3JuanOrozco\\FormularioIngreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:42:10.283Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioAfiliado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "RelativeDocumentMoniker": "Fase3JuanOrozco\\FormularioAfiliado.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Fase3JuanOrozco\\Fase3JuanOrozco\\FormularioAfiliado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Fase3JuanOrozco\\FormularioAfiliado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:42:09.325Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

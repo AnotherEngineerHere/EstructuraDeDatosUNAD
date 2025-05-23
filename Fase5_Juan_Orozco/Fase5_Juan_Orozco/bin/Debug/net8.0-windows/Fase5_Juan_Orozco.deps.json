@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fase5_Juan_Orozco/1.0.0": {
+        "dependencies": {
+          "Fase2JuanOrozco": "1.0.0",
+          "Fase3JuanOrozco": "1.0.0",
+          "Fase4JuanOrozco": "1.0.0"
+        },
+        "runtime": {
+          "Fase5_Juan_Orozco.dll": {}
+        }
+      },
+      "Fase2JuanOrozco/1.0.0": {
+        "runtime": {
+          "Fase2JuanOrozco.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Fase3JuanOrozco/1.0.0": {
+        "runtime": {
+          "Fase3JuanOrozco.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Fase4JuanOrozco/1.0.0": {
+        "runtime": {
+          "Fase4JuanOrozco.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fase5_Juan_Orozco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fase2JuanOrozco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fase3JuanOrozco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fase4JuanOrozco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
